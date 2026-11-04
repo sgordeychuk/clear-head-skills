@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "clear-head",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skills that pay down thinking debt: brain dump, inbox processing, task rewriting, checklists, an ideas box and daily, weekly and monthly reviews.",
   "author": {
     "name": "Sergey Gordeychuk"
