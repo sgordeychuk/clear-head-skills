@@ -35,7 +35,7 @@ The skills follow the open [Agent Skills](https://agentskills.io) format, so the
 | Where | How |
 |---|---|
 | Claude Code | `/plugin marketplace add sgordeychuk/clear-head-skills`, then `/plugin install clear-head@clear-head` |
-| Claude app (web, desktop) | Download the zips from [Releases](https://github.com/sgordeychuk/clear-head-skills/releases) and upload each one in Settings → Capabilities → Skills (code execution has to be on) |
+| Claude app (web, desktop) | In Customize → Plugins pick Add marketplace, enter `sgordeychuk/clear-head-skills` and install Clear Head, it then works in chat, Cowork and Claude Code and updates from the repo. Or upload the zips from [Releases](https://github.com/sgordeychuk/clear-head-skills/releases) one by one in Customize → Skills |
 | ChatGPT / Codex | Add it as a plugin with `codex plugin marketplace add sgordeychuk/clear-head-skills`, then install it from the Plugins Directory, or just copy `skills/*` to `~/.agents/skills/` |
 | Cursor, Copilot, Gemini CLI and others | `npx skills add sgordeychuk/clear-head-skills`, or copy `skills/*` to the folder your agent loads skills from |
 
@@ -50,6 +50,8 @@ Setup asks where your tasks live and where Clear Head should keep its notes (you
 - Tasks and calendar can stay in Todoist, Google Calendar / anything else your app has a connector for, and the skills use your tool's own priorities, dates and projects
 
 The skills always show the changes they plan to make and write to your tools only after you confirm.
+
+The skills are plain markdown, no scripts and no network calls of their own, so you can read every file before installing (and you should, with any skill).
 
 ## Credits
 

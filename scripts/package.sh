@@ -10,4 +10,5 @@ for dir in */; do
   zip -qr "$root/dist/$name.zip" "$name" -x '*.DS_Store'
   rm "$name/LICENSE"
 done
+(cd "$root/dist" && shasum -a 256 *.zip > SHA256SUMS)
 ls -1 "$root/dist"
