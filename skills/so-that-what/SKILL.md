@@ -8,6 +8,8 @@ license: MIT
 
 Tasks get on the list for all sorts of reasons. This question links what's on the list to what the person actually wants, which surfaces cheaper routes, work that serves nothing, and wants nobody is working on.
 
+Your part is the questions. The answers, the other routes and the decision all come from the person; when they're stuck, try a different question.
+
 ## Up: from a task to a want
 
 1. Read the task and ask, "So that what?" The answer is its nearest result.

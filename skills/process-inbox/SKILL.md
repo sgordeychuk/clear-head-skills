@@ -24,7 +24,7 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
    - **Reference**: information to keep. Ask "When will I need this, and where will I look then?" and store it there: in a task's description, a project's notes or reference.md.
    - **Drop**: no longer matters. Confirm before deleting.
 
-   Propose outcomes yourself whenever the item's words make them clear. Ask the person a short question only when they don't.
+   Propose outcomes yourself whenever the item's words make them clear, and build the wording only from what the item says. When the next step or the reason isn't in the item, ask the person a short question and use their answer.
 4. **Show the batch** as a compact table: the original item, then its outcome(s) with the proposed wording and placement. The person approves, edits or skips each row.
 5. **Apply.** Write to the tools or files per the config, then remove the processed items from the inbox.
 6. **Close.** Give counts by outcome and name the one to three items now in today, if any. Offer the next round if items remain.

@@ -14,13 +14,13 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
 
 1. **Load.** Pull overdue tasks, tasks for today, today's calendar, yesterday's completed tasks and the inbox count.
 2. **Close yesterday.**
-   - For each completed task, does it need a follow-up or a next step? A sent proposal → "Ask Mark for feedback on the proposal" in a few days; a finished first step of a project → that project's next step.
+   - For each completed task, ask whether it needs a follow-up or a next step. A sent proposal → "Ask Mark for feedback on the proposal" in a few days; a finished first step of a project → that project's next step.
    - For each overdue task, decide: today, a specific later date, reword, or drop. Every push to a later date gets a `moved:` line in the journal. If the journal shows it has moved before, say so plainly and offer to reword or drop it instead: a task that keeps moving is usually foggy or unwanted, rarely just unlucky.
 3. **Refresh stale tasks.** Anything that has sat in today or overdue for more than a day without being touched has turned invisible — the eye slides past familiar words. Reword it with the task-rewriter rules, even slightly, so it reads fresh.
 4. **Shape today.**
    - Check the calendar for how much free time there really is.
-   - Propose a short list that fits that time. Deliberate work runs out after a few hours a day, well before the workday does.
-   - Lead with the one task that moves something that matters, rather than the easiest one.
+   - Ask which tasks fit that time, and keep the list short. Deliberate work runs out after a few hours a day, well before the workday does.
+   - Ask which one task moves something that matters, and lead with it, even when it isn't the easiest.
    - Everything else gets a later date.
 5. **Morning capture.** Ask: "Anything on your mind this morning?" Put whatever comes into the inbox; processing can wait.
 6. **Apply and log.** Apply the changes after the person confirms. Append a short journal entry: the date, what was done yesterday, and the `moved:` lines.

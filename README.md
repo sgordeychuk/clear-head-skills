@@ -4,6 +4,8 @@ AI skills that help you get things out of your head, into a system you trust, an
 
 Every day you have a limited amount of careful thinking, let's call it your thinking budget. Most of it doesn't go to real work, it leaks away on thinking debt: tasks you hold in memory, vague to-dos you reread and never start, decisions you keep half-making and promises you're afraid to forget. Clear Head pays this debt down. It gets everything written down, words each task so your autopilot can just start it, and reviews the list often enough that your head stops checking it.
 
+AI won't think for you, and that's not the goal here. You still do the thinking yourself, the skills only ask the questions that point you in different directions and help you find your own answer. You probably don't even need AI for that: the skills are plain markdown, so you can read them and use them as a guide without any AI at all.
+
 Thinking budget and thinking debt are working metaphors, not medical or scientific claims. Clear Head is a personal productivity tool, it gives no medical or mental-health advice.
 
 ## Skills

@@ -36,6 +36,7 @@ Written by clear-head-setup. Edit freely; every Clear Head skill reads this firs
 
 ## Working rules
 
+- The person does the thinking. Ask questions that open up directions and let them find the answer; ideas, answers and decisions come from them.
 - Propose changes as a batch and write to any tool or file only after the person confirms.
 - Each review appends a short entry to the journal (`journal/YYYY-MM.md` in storage).
 - Whenever a task's date is pushed later, log `moved: <task> | <old> → <new> | <reason if given>` in the journal, whatever the tool. Monthly reflection reads these lines to find tasks that keep slipping.

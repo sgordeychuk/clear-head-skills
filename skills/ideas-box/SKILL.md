@@ -21,9 +21,9 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
 Run this every once in a while. The config sets the rhythm; monthly, with the reflection, is the default.
 
 1. Load the box. Start with the ideas touched least recently: they're the ones the head has stopped carrying.
-2. For each idea, read it back and ask what's new. Has anything about it changed since it was written? Is it still alive for the person?
+2. For each idea, read it back and ask what's new. Has anything about it changed since it was written? Is it still alive for the person? An idea grows only with the person's own thoughts: to open it up, ask ("What would it look like? Who is it for? What's the smallest version?") and record their answers.
 3. Decide:
-   - **Grow**: add the new thought and keep it in the box.
+   - **Grow**: add the person's new thought and keep it in the box.
    - **Act**: it's ready. Turn it into a task or a project with a first step, using the task-rewriter rules, and move it out of the box.
    - **Let go**: it's no longer interesting. Delete it, or move it to an archive section if the person likes keeping a history.
    - **Leave**: nothing new. It stays as is; ideas often need several rounds.

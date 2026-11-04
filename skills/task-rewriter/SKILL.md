@@ -28,7 +28,7 @@ The target is a task your **autopilot** can run: readable half-asleep, startable
    - "Who would know?" → "Ask Sam…"
    - For think/decide tasks: thinking means answering a specific question. "What's the first question you'd need answered?" Then make the task about getting that answer: "Write three options for…", "Ask Lee what the budget is for…", "Compare the two offers in a table".
    - For projects: "If you had 20 minutes right now and had to make progress, what would you do?" Push past "everything" or "I need a free afternoon" to one concrete move.
-3. **Rewrite**, keeping the goal visible in parentheses: `Call the garage on Elm St to book an inspection (Get the car fixed)`. When that step is done, replace the front part with the next step; the goal stays.
+3. **Rewrite** from the person's answer, keeping the goal visible in parentheses: `Call the garage on Elm St to book an inspection (Get the car fixed)`. When that step is done, replace the front part with the next step; the goal stays.
 4. **Route what isn't a task.** An outcome needing several steps goes to projects with just its first step in the task list. Something waiting on another person becomes a follow-up: "Ask Dana whether the quote is ready", with a date.
 5. **Apply** after the person confirms.
 

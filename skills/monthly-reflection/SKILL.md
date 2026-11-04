@@ -18,7 +18,7 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
    - this month's journal, especially the `moved:` lines
    - last month's reflection, for the priorities noted then
 2. **What got done.** Summarise by project or area of life and ask what the person is glad about. Keep it warm and brief, and don't score anything. Mention areas that got nothing this month (all work, no health, for instance) as an observation, not a judgement.
-3. **Slippers.** These are tasks moved three or more times, open for more than a month, or overdue again and again. Line them up and, for each one, find out honestly *why* it slips:
+3. **Slippers.** These are tasks moved three or more times, open for more than a month, or overdue again and again. Line them up and, for each one, ask the person honestly *why* it slips. These are the usual reasons; let the person name theirs:
    - **foggy**: no real first step. Find the first move with the task-rewriter rules.
    - **too big**: really a project. Make it one, with a single first step.
    - **not really wanted**, or someone else's want: run so-that-what, then drop it or renegotiate it.
@@ -35,7 +35,7 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
    - "Is there something you're still doing that no longer matters to you?"
    - "What would you like next month to be about?"
 
-   Reflect back what you hear in the person's words. The so-that-what down direction helps link wants to tasks.
+   Reflect back what you hear in the person's words; what matters is theirs to judge. The so-that-what down direction helps link wants to tasks.
 7. **Write it down.** Apply the task changes after the person confirms. Append the reflection to the journal: highlights, slipper decisions, priorities and next month's focus. Next month's reflection starts from it.
 
 Done when every slipper has a decision, every vague task has a first move or an open question, and the priorities note is in the journal.

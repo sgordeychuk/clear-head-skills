@@ -21,7 +21,7 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
 
 1. Ask what it's for and when it's used.
 2. Ask what usually gets forgotten or goes wrong. That's the core of the list.
-3. Draft it by section, with the person filling gaps from their own experience. Add common items only as suggestions they accept.
+3. Build it by section from the person's answers. To fill gaps, ask prompting questions ("What do you need before you leave? On the day? After you're back?") and let the items come from their own experience.
 4. Save it as `checklists/<name>.md`, or as a template in their tool.
 
 ## Run
@@ -29,7 +29,7 @@ Load the Clear Head config: `~/.clear-head/config.md`, a "Clear Head config" doc
 When the occasion comes up (a trip next week, an appointment on Thursday):
 
 1. Load the matching checklist. If there's none, offer to create one.
-2. Adapt it to this occasion: drop what doesn't apply and add what's special this time.
+2. Adapt it to this occasion: ask what doesn't apply and what's special this time.
 3. Turn items with lead time into dated tasks, worded with the task-rewriter rules. Items for the day itself stay as the checklist to tick through then.
 
 ## Improve
