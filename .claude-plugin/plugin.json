@@ -1,0 +1,19 @@
+{
+  "name": "clear-head",
+  "description": "Skills that pay down thinking debt: brain dump, inbox processing, task rewriting, checklists, an ideas box and daily, weekly and monthly reviews.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sergey Gordeychuk"
+  },
+  "keywords": [
+    "productivity",
+    "gtd",
+    "brain-dump",
+    "weekly-review",
+    "todoist",
+    "mental-offload"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sgordeychuk/clear-head-skills",
+  "repository": "https://github.com/sgordeychuk/clear-head-skills"
+}

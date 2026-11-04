@@ -1,0 +1,11 @@
+{
+  "name": "clear-head",
+  "owner": { "name": "Sergey Gordeychuk" },
+  "plugins": [
+    {
+      "name": "clear-head",
+      "source": "./",
+      "description": "Skills that pay down thinking debt: brain dump, inbox processing, task rewriting, checklists, an ideas box and daily, weekly and monthly reviews."
+    }
+  ]
+}
