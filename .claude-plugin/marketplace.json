@@ -1,6 +1,11 @@
 {
   "name": "clear-head",
-  "owner": { "name": "Sergey Gordeychuk" },
+  "owner": {
+    "name": "Sergey Gordeychuk"
+  },
+  "metadata": {
+    "description": "Clear Head: skills that help you get things out of your head, into a system you trust, and moving."
+  },
   "plugins": [
     {
       "name": "clear-head",
